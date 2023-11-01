@@ -1,0 +1,6 @@
+Firstname : Daerego
+Lastname : Braide
+Email : daerego.braide@accounting.company.com
+Password : 4(8#__&6
+Capacity : 500
+Alternate mail : null
